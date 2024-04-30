@@ -1,7 +1,7 @@
 # Simple-Bank-System-in-Cpp
 
 ⚠ Download Both main and header file always
-Enjoy 💗
+
 ---------------------------------------------
 
 
